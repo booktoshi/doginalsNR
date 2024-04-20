@@ -229,13 +229,13 @@ TESTNET=false
 
 The miner fee is too low. You can increase it up by putting FEE_PER_KB=300000000 in your .env file or just wait it out. The default is 100000000 but spikes up when demand is high.
 
-BillyBitcoins - DQAWs4LQKY3zVmorsLHDUCV7LE5ox6rho6
-Book - D9Ue4zayx5NP7sTSBMM9uwuzqpHv4HnkaN
-BigChief - DCHxodkzaKCLjmnG4LP8uH6NKynmntmCNz
-Ape - D9pqzxiiUke5eodEzMmxZAxpFcbvwuM4Hg
-Glitch - DKfeP2Hb5G6wXihDGDRJosQ1dYgNFWbm4i
-MyDogeCTO - DLRAyAnjpP6tHtzT6D7MfpWuG1nEYvw9dA
-ApeZord - DCagMX5GccdpaBFJwDqmPcCaNqSzXtYoVf
-Piccolo - DByagRm3jyYFskGDDeNNMu2NGSDHZKnZLo
-DRX - DL1Ff5cfRAAjaUwxesm5fwtAKbDqBM6woU
-9.bitmap - DHdy15HT1Lq15ukpuJEA7qnWSs4famezDN
+# BillyBitcoins - DQAWs4LQKY3zVmorsLHDUCV7LE5ox6rho6
+# Book - D9Ue4zayx5NP7sTSBMM9uwuzqpHv4HnkaN
+# BigChief - DCHxodkzaKCLjmnG4LP8uH6NKynmntmCNz
+# Ape - D9pqzxiiUke5eodEzMmxZAxpFcbvwuM4Hg
+# Glitch - DKfeP2Hb5G6wXihDGDRJosQ1dYgNFWbm4i
+# MyDogeCTO - DLRAyAnjpP6tHtzT6D7MfpWuG1nEYvw9dA
+# ApeZord - DCagMX5GccdpaBFJwDqmPcCaNqSzXtYoVf
+# Piccolo - DByagRm3jyYFskGDDeNNMu2NGSDHZKnZLo
+# DRX - DL1Ff5cfRAAjaUwxesm5fwtAKbDqBM6woU
+# 9.bitmap - DHdy15HT1Lq15ukpuJEA7qnWSs4famezDN
