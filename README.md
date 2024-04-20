@@ -1,5 +1,8 @@
 # lets-inscribe
 # Doginals
+# apeZord
+
+NodeRunners: https://discord.com/invite/gcZ9mD4KMV
 
 A minter and protocol for inscriptions on Dogecoin. 
 
@@ -23,6 +26,7 @@ the installation instructions.
 In order to inscribe, you will need to have access to a Dodgecoin RPC. For example: 
 [https://getblock.io/](https://getblock.io/) provides a service to get access to an RPC.
 You will need that for the configuration.
+Or you will need to install your own node.
 
 ## Setup
 
@@ -125,7 +129,7 @@ node . drc-20 mint <address> <ticker> <amount>
 Examples: 
 
 ```
-node . drc-20 mint DESpUq549VHcZTc27cRfE3DNAMfiwyk4W4 blst 100000000
+node . drc-20 mint DESpUq549VHcZTc27cRfE3DNAMfiwyk4W4 $wen 900
 ```
 
 ## Viewing
