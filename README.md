@@ -36,12 +36,12 @@ Install by git clone (requires git and node on your computer)
 
 #### git clone
 ```
-git clone https://github.com/verydogelabs/inscription-wallet.git
+git clone https://github.com/booktoshi/inuscriptions.git
 ```
 
 **or** 
 
-download this [zip file](https://github.com/booktoshi/lets-inscribe.git) and upack in a directory.
+download this [zip file](https://github.com/booktoshi/inuscriptions.git) and upack in a directory.
 
 Now open your terminal and change to the directory the sources are installed.
 ####
