@@ -36,7 +36,7 @@ Install by git clone (requires git and node on your computer)
 
 #### git clone
 ```
-git clone https://github.com/booktoshi/inuscriptions.git
+git clone https://github.com/booktoshi/doginals.git
 ```
 
 **or** 
